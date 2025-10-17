@@ -1,0 +1,19 @@
+{
+    "players": [
+        {
+            "login": "player_1c61b2c5",
+            "password": "067f2e14-aa3",
+            "name": "FT_7098",
+            "displayId": "44201811",
+            "gameId": 10000000,
+            "kills": "0",
+            "headshots": "0",
+            "deaths": "0",
+            "gold": "0",
+            "isBanned": false,
+            "banReason": "",
+            "avatar": "",
+            "createdAt": "2025-10-17T18:30:14.8957525Z"
+        }
+    ]
+}
